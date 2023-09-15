@@ -4,3 +4,10 @@ This repository has been forked from [forkwikiman/enha_monimarkup](https://githu
 
 ## Description
 Provide a ported to MySQL file.
+
+## Password
+The password is `xi`.
+
+## REF
+- [How to split a large file into smaller files with Bandizip](https://kr.bandisoft.com/bandizip/help/how-to-split-a-large-file-into-smaller-files-with-bandizip/)
+- [Bandizip Official Site](https://kr.bandisoft.com/bandizip/)
