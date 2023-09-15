@@ -9,5 +9,5 @@ Provide a ported to MySQL file.
 The password is `xi`.
 
 ## REF
-- [How to split a large file into smaller files with Bandizip](https://kr.bandisoft.com/bandizip/help/how-to-split-a-large-file-into-smaller-files-with-bandizip/)
-- [Bandizip Official Site](https://kr.bandisoft.com/bandizip/)
+- [How to split a large file into smaller files with Bandizip](https://en.bandisoft.com/bandizip/help/how-to-split-a-large-file-into-smaller-files-with-bandizip/)
+- [Bandizip Official Site](https://en.bandisoft.com/bandizip/)
